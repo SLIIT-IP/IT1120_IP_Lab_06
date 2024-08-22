@@ -73,9 +73,29 @@ terminated by -99. Validate for negative input.
 Use the following formula to find the Root Mean Square of the numbers
 entered.
 
-Root Mean Square = ∑ X ^2^
+  <p align="center">
+    <img src="resources/media/6.PNG" alt="Image description" style="width:50%; height:50%;">
+  </p>
 
-N
+## Root Mean Square (RMS)
+
+The formula for Root Mean Square (RMS) is given by:
+
+\[
+\text{RMS} = \sqrt{\frac{\sum X^2}{N}}
+\]
+
+Where:
+- \(\sum X^2\) is the summation of the squares of each individual \(X\).
+
+For example:
+
+\[
+\sum X^2 = X_1^2 + X_2^2 + X_3^2 + \dots + X_N^2
+\]
+
+Here, \(N\) is the total number of observations.
+
 
 ∑ X ^2^ is the summation of X^2^ for each individual X
 
