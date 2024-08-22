@@ -45,7 +45,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/2.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/3.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 c)  Modify the program again to display the **Sum** and **Average** of
@@ -58,7 +58,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/3.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/4.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
@@ -90,7 +90,7 @@ Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
 Expected Output:
 
   <p align="center">
-    <img src="resources/media/4.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/5.PNG" alt="Image description" style="width:50%; height:50%;">
   </p>
 
 
